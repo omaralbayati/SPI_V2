@@ -39,21 +39,7 @@ int main(void) {
         delay();
         delay();
         delay();
-        //_LATB7 = 0X00;
-        //        //        tt = spi_read_long(0x222);
-        //        //        delay();
-        //        //        delay();
-        //        //        spi_write(tt);
-        //        tt = spi_read(0X222);
-        //        delay();
-        //        spi_write(tt);
-        //        delay();
-        //        _LATB7 = 0XFF;
-        //        delay();
-        //        delay();
-        //        delay();
-        //        delay();
-    }
+        }
     return 0;
 }
 
